@@ -20,7 +20,7 @@ import java.util.HashMap;
 public class MainActivity  extends ListActivity {
 
     // URL to get contacts JSON
-    private static String url = "https://raw.githubusercontent.com/patugosavi/ImageCropAndroid/master/index.html";
+    private static String url = "https://raw.githubusercontent.com/patugosavi/JsonParsingAndroid/master/index.html";
 
 
     // JSON Node names
